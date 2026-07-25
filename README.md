@@ -17,5 +17,6 @@ Obtain the sum of each inputted mark x weighting --> (test1 * 0.30) + ...
 Validation checks to ensure the above calcualted weighted average is  >= 50
     If it is, you qualify
     If not, you dont qualify
-
+## Purpose
+Utilized Docker to build a Docker file containing the application, then pushed that image to Docker Hub so it can be pulled and run on any machine.
 
