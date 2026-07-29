@@ -1,7 +1,9 @@
 # examqual-cna271
 The official GitHub repo for the CNA271 Group project 2026
 # Code logic and understanding
-
+This application calculates if a student is eligble to take the exam based on 3 marks they inputted. They are
+calculated in accordance to pre-defined weightings and averaged to give a final average mark that must meet a requirements
+of being greater than 50 to qualify for the exam. 
 ## Logic 1
  Will require iteration of 4 requesting a mark
     - ERROR HANDLING:
